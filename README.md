@@ -9,6 +9,7 @@ Welcome to my GitHub! I’m [Helios from Helios Security Research (HSR)], an Ope
 I specialize in **open-source security solutions**, with a passion for creating tools, resources, and documentation that empower others to improve their security posture. I have extensive experience in **vulnerability research**, **security tool development**, **penetration testing**, and **security automation**. My goal is to contribute to the open-source community and help secure the software we all rely on.
 
 🔧 **Key Areas of Expertise**:
+- Network security
 - Open Source Security Tools Development
 - Vulnerability Discovery & Research
 - Security Automation (Python, Bash, etc.)
@@ -23,3 +24,4 @@ I specialize in **open-source security solutions**, with a passion for creating 
 - Automated security testing & CI/CD pipeline security
 - Educating and empowering others through secure code practices
 - Community-driven security initiatives
+- Teach you how to protect your self and family with open source tools 
